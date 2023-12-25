@@ -1,0 +1,13 @@
+<?php
+$number1=5;
+$number2=10;
+$number3=15;
+
+if ($number3 >  $number2 && $number1  ) {
+   echo $number3;
+  } else {
+  echo "$number3 is Not greater";
+}
+
+?>
+
